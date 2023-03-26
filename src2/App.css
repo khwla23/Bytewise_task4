@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+
+h3{
+  color: rgb(166, 229, 223);
+}
+h2{
+  color: beige;
+}
+p{
+  color: rgb(245, 146, 199);
+}
+img:hover{
+  border-color: rgb(242, 236, 236);
+  border-radius: 5px;
+}
+
+img:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
