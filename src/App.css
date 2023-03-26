@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  /* margin: 0 auto;
+  padding: 2rem; */
+}
+
+.div1{
+  margin-left: 40rem;
+  margin-top: 3.5rem;
+}
+
+#div2{
+  margin-left: 100px;
+  margin-top: -400px;
+  color: rgb(207, 221, 138);
+  display:flexbox;
+}
+h3{
+  color: rgb(166, 229, 223);
+}
+h2{
+  color: beige;
+}
+p{
+  color: rgb(245, 146, 199);
+}
